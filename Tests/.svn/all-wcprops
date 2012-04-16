@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/imin/iphone/!svn/ver/2200/SNS_iPhone/trunk/Tests
+END
+LoginTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/imin/iphone/!svn/ver/1662/SNS_iPhone/trunk/Tests/LoginTests.m
+END
+SetAuthTokenExTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/imin/iphone/!svn/ver/1691/SNS_iPhone/trunk/Tests/SetAuthTokenExTest.m
+END
+RegexKitLiteTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/imin/iphone/!svn/ver/2200/SNS_iPhone/trunk/Tests/RegexKitLiteTest.m
+END
+UtilsTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/imin/iphone/!svn/ver/1864/SNS_iPhone/trunk/Tests/UtilsTest.m
+END
+SetupTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/imin/iphone/!svn/ver/1912/SNS_iPhone/trunk/Tests/SetupTests.m
+END

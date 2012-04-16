@@ -1,0 +1,18 @@
+//
+//  ScrapInsert.m
+//  ImIn
+//
+//  Created by edbear on 11. 9. 9..
+//  Copyright 2011년 __MyCompanyName__. All rights reserved.
+//
+
+#import "ScrapInsert.h"
+
+@implementation ScrapInsert
+#ifdef MOCK_PROTOCOL
+- (NSString*) mockJson
+{
+    return @"{\"func\":\"scrapInsert\",\"result\":true,\"description\":\"성공\",\"errCode\":\"0\",\"postId\":\"2011043918939\"}";
+}
+#endif
+@end
